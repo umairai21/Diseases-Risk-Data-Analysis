@@ -1,6 +1,7 @@
 # Global Cardiometabolic Risk Dashboard (1980–2014)
 
-><img width="984" height="558" alt="image" src="https://github.com/user-attachments/assets/541599f9-bc80-4752-a5af-7e8a9c899726" />
+><img width="1139" height="653" alt="image" src="https://github.com/user-attachments/assets/59fa5270-ee21-487a-ae34-81d7ef54c85e" />
+
 
 
 ---
