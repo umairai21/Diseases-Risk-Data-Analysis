@@ -57,8 +57,6 @@ The PostgreSQL backend was used to answer critical public health questions befor
 - Categorizing demographic groups into **High, Medium, and Low-Risk** buckets based on dynamic thresholds.
 - Identifying **anomalies** where historical global averages were aggressively outpaced by specific regional spikes.
 
-The full suite of analysis queries — including Common Table Expressions (CTEs) and subqueries.
-
 ---
 
 ## Dashboard Features (Power BI)
